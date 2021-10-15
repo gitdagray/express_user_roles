@@ -1,0 +1,13 @@
+20211011	17:44:50	9c6f8dae-33e6-4e75-aa26-9705f6f63c24	POST	undefined	/auth
+20211011	17:45:07	a1c02ef1-8bb5-4e11-a7db-7dc3e9fb742b	GET	undefined	/employees
+20211011	17:45:19	fc1f8b2b-064a-4751-be68-59442092914d	POST	undefined	/employees
+20211011	17:46:56	98a170c4-3830-48f9-bc19-ac2f80c42d54	POST	undefined	/auth
+20211011	17:47:10	0a3231e2-3083-42b8-bf71-2e699508452b	POST	undefined	/employees
+20211011	17:47:26	b880f8d2-4af3-4f8a-acfc-64635b35b81f	DELETE	undefined	/employees
+20211011	17:47:36	f0fe0150-44a9-4f1c-a7d7-ec8e4ce8d1dd	POST	undefined	/auth
+20211011	17:47:52	6b9200a7-d769-4464-a404-423b67b5cf0c	DELETE	undefined	/employees
+20211011	17:48:48	bcdb46f9-4364-4d9c-97f8-55795cd8c413	POST	undefined	/auth
+20211011	17:49:03	d692da66-f505-444c-8fa6-5b87ef9972c3	DELETE	undefined	/employees
+20211011	17:49:24	2b74f46b-65d3-4041-9c87-65e0982d46ad	POST	undefined	/auth
+20211011	17:49:38	32899fb9-23b8-49fc-95ac-631462d7174c	POST	undefined	/employees
+20211011	17:49:44	df0482cf-3962-4078-9a8e-b4712e1d8658	DELETE	undefined	/employees
